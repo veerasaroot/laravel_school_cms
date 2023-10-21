@@ -2,11 +2,11 @@
 
 # Author
 
-[4jean](https://github/4jean)
+[4jean](https://github.com/4jean)
 
 # This project is only a further development from the original author.
 
-ฉันได้ทำการปรับโครงสร้างของโปรเจกต์ใหม่ และอัปเกรดจาก Laravel 8 เป็น Laravel 10 แล้ว
+I have restructured the project. and upgraded from Laravel 8 to Laravel 10
 
 # License
 
