@@ -2,9 +2,11 @@
 
 # Author
 
-[Veerasaroot Bunkangwan](https://www.facebook.com/boss.veerasaroot)
+[4jean](https://github/4jean)
 
-## Made in Thailand.
+# This project is only a further development from the original author.
+
+ฉันได้ทำการปรับโครงสร้างของโปรเจกต์ใหม่ และอัปเกรดจาก Laravel 8 เป็น Laravel 10 แล้ว
 
 # License
 
